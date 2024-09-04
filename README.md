@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**Juh899/juh899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá 👋 Eu sou <strong>Juliana</strong> 👨‍💻
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <strong>Aluna</strong>, <strong>Pernambuco</strong>.
+</p>
+
+<p align='center'>  
+  <a href="LINK_DO_SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="@julianalbarboza">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="LINK_DO_SEU_TWITTER_AQUI">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+___
+
+## Algumas estatísticas minhas:
+
+<a href="LINK_DO_SEU_SITE_AQUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juh899&show_icons=true&theme=radical" alt="Github status" />
+</a>
+<a href="LINK_DO_SEU_SITE_AQUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juh899&layout=compact&theme=radical" />
+</a>
+
+
+___
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juh899" alt="Status" /> </p>
+
+### Obrigado por visitar!!
+### Estes são meus 6 melhores repositórios 👇 
